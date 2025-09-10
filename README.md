@@ -69,6 +69,9 @@ Substituir espaços duplos por simples e “...” por “.”.
 Salvar o resultado no arquivo comentarios_limpos.txt.
 Uma mensagem será exibida informando que o arquivo limpo foi salvo.
 
+Nome e time separados por vírgula:
+
+
 
 
 
