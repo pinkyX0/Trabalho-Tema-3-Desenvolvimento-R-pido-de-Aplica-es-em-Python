@@ -70,6 +70,13 @@ Salvar o resultado no arquivo comentarios_limpos.txt.
 Uma mensagem será exibida informando que o arquivo limpo foi salvo.
 
 Nome e time separados por vírgula:
+Certifique-se de ter o arquivo jogadores_times.txt no mesmo diretório do programa.
+Rode o programa (no terminal, IDLE ou outro editor Python).
+O programa vai:
+Ler cada linha do arquivo, esperando o formato nome,time.
+Criar um dicionário com nome como chave e time como valor.
+Registrar em linhas_invalidas.log qualquer linha que não tenha vírgula ou esteja incorreta.
+Ao final, o programa mostra na tela o dicionário de jogadores válidos.
 
 
 
