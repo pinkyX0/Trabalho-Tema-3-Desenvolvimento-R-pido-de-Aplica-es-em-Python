@@ -49,3 +49,5 @@ Haja problema com o arquivo ou permissões.
 
 Exercício 3(como executar cada código)
 
+Ler ou criar arquivo:
+
