@@ -60,7 +60,16 @@ O programa vai tentar abrir o arquivo frases.txt e contar quantas linhas não es
 O resultado será exibido na tela.
 Se houver problema de permissão para abrir o arquivo, o programa mostra uma mensagem de erro.
 
-Normalizar espaços e pontos
+Normalizar espaços e pontos:
+Certifique-se de ter o arquivo comentarios.txt no mesmo diretório do programa.
+Rode o programa (no terminal, IDLE ou outro editor Python).
+O programa vai:
+Ler o arquivo comentarios.txt (tentando UTF-8 primeiro e Latin-1 se houver erro).
+Substituir espaços duplos por simples e “...” por “.”.
+Salvar o resultado no arquivo comentarios_limpos.txt.
+Uma mensagem será exibida informando que o arquivo limpo foi salvo.
+
+
 
 
 
