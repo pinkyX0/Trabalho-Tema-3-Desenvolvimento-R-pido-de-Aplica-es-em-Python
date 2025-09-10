@@ -78,6 +78,7 @@ Criar um dicionário com nome como chave e time como valor.
 Registrar em linhas_invalidas.log qualquer linha que não tenha vírgula ou esteja incorreta.
 Ao final, o programa mostra na tela o dicionário de jogadores válidos.
 
+Dados ordenados:
 
 
 
