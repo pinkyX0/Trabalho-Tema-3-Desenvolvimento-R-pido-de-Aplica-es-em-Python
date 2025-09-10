@@ -19,7 +19,11 @@ O programa vai mostrar o resultado da divisão.
 Questão 3
 
 O código deve é executado da seguinte maneira:
-
+Rodar o programa (no terminal, IDLE ou qualquer editor Python).
+O programa já contém uma lista de exemplo (numeros = [5, 3, -2, "abc", 7]). Ele vai calcular o fatorial de cada número inteiro não negativo da lista.
+Para cada elemento da lista:
+Se for número inteiro não negativo, mostra o fatorial.
+Se for negativo ou não for inteiro, mostra uma mensagem de erro.
 
 Questão 4
 
