@@ -95,5 +95,7 @@ Ler o conteúdo do arquivo, transformar tudo em minúsculas e remover pontuaçã
 Contar e mostrar na tela a quantidade de palavras únicas no arquivo.
 Se o arquivo não existir, será exibida uma mensagem de erro.
 
+Mesclar listas sem duplicatas:
+
 
 
