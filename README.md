@@ -45,3 +45,7 @@ Se estiver correto, o programa vai salvar o nome no arquivo nome.txt (ou outro n
 Mensagens de erro vão aparecer caso:
 O nome esteja inválido.
 Haja problema com o arquivo ou permissões.
+
+
+Exercício 3(como executar cada código)
+
