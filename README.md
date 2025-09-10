@@ -60,6 +60,7 @@ O programa vai tentar abrir o arquivo frases.txt e contar quantas linhas não es
 O resultado será exibido na tela.
 Se houver problema de permissão para abrir o arquivo, o programa mostra uma mensagem de erro.
 
+Normalizar espaços e pontos
 
 
 
