@@ -79,9 +79,13 @@ Registrar em linhas_invalidas.log qualquer linha que não tenha vírgula ou este
 Ao final, o programa mostra na tela o dicionário de jogadores válidos.
 
 Dados ordenados:
-
-
-
+Certifique-se de ter os arquivos lista_a.txt e lista_b.txt no mesmo diretório do programa (se algum não existir, o programa avisa, mas continua).
+Rode o programa (no terminal, IDLE ou outro editor Python).
+O programa vai:
+Ler os itens de ambos os arquivos, removendo duplicatas e linhas vazias.
+Ordenar os itens em ordem alfabética.
+Salvar o resultado no arquivo lista_uniq.txt.
+Uma mensagem será exibida informando que o arquivo lista_uniq.txt foi gerado.
 
 
 
