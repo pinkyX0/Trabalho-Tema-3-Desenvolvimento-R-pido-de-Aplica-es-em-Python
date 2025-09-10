@@ -28,7 +28,12 @@ Se for negativo ou não for inteiro, mostra uma mensagem de erro.
 Questão 4
 
 O código deve é executado da seguinte maneira:
-
+Certifique-se de ter um arquivo de texto (por exemplo, meu_arquivo.txt) no mesmo diretório do programa.
+Altere a variável arquivo para o nome do arquivo que quer analisar, se necessário.
+Rode o programa.
+O programa vai mostrar:
+Total de linhas do arquivo.
+Total de palavras do arquivo.
 
 Questão 5
 
