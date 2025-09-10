@@ -96,6 +96,11 @@ Contar e mostrar na tela a quantidade de palavras únicas no arquivo.
 Se o arquivo não existir, será exibida uma mensagem de erro.
 
 Mesclar listas sem duplicatas:
-
-
+Certifique-se de ter os arquivos lista_a.txt e lista_b.txt no mesmo diretório do programa (se algum não existir, o programa avisa, mas continua).
+Rode o programa (no terminal, IDLE ou outro editor Python).
+O programa vai:
+Ler os itens dos dois arquivos, remover duplicatas e linhas vazias.
+Ordenar os itens em ordem alfabética.
+Salvar o resultado no arquivo lista_unica.txt.
+Uma mensagem será exibida informando que o arquivo lista_unica.txt foi gerado.
 
