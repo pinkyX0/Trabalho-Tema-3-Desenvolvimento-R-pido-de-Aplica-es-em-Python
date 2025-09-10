@@ -54,5 +54,8 @@ Rode o programa (no terminal, IDLE ou outro editor Python).
 O programa vai tentar abrir o arquivo notas.txt e mostrar seu conteúdo.
 Se o arquivo não existir, o programa cria o arquivo automaticamente com o texto "Arquivo criado." e mostra esse conteúdo.
 
+Contar linhas não vazias:
+
+
 
 
