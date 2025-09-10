@@ -38,3 +38,10 @@ Total de palavras do arquivo.
 Questão 5
 
 O código deve é executado da seguinte maneira:
+Rode o programa (no terminal, IDLE ou outro editor Python).
+Digite seu nome completo quando solicitado.
+O programa vai validar o nome (não pode estar vazio e só pode ter letras e espaços).
+Se estiver correto, o programa vai salvar o nome no arquivo nome.txt (ou outro nome que você definir).
+Mensagens de erro vão aparecer caso:
+O nome esteja inválido.
+Haja problema com o arquivo ou permissões.
