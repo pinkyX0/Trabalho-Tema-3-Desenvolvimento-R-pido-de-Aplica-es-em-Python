@@ -50,4 +50,9 @@ Haja problema com o arquivo ou permissões.
 Exercício 3(como executar cada código)
 
 Ler ou criar arquivo:
+Rode o programa (no terminal, IDLE ou outro editor Python).
+O programa vai tentar abrir o arquivo notas.txt e mostrar seu conteúdo.
+Se o arquivo não existir, o programa cria o arquivo automaticamente com o texto "Arquivo criado." e mostra esse conteúdo.
+
+
 
