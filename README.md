@@ -88,7 +88,12 @@ Salvar o resultado no arquivo lista_uniq.txt.
 Uma mensagem será exibida informando que o arquivo lista_uniq.txt foi gerado.
 
 Palavras únicas:
-
+Certifique-se de ter o arquivo texto.txt no mesmo diretório do programa.
+Rode o programa (no terminal, IDLE ou outro editor Python).
+O programa vai:
+Ler o conteúdo do arquivo, transformar tudo em minúsculas e remover pontuação.
+Contar e mostrar na tela a quantidade de palavras únicas no arquivo.
+Se o arquivo não existir, será exibida uma mensagem de erro.
 
 
 
