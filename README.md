@@ -12,3 +12,26 @@ Se tudo certo, imprime o nome válido.
 Se houver erro, imprime a mensagem de erro.
 
 Questão 2
+
+O código deve é executado da seguinte maneira:
+Executa dividir_numeros().
+Lê dois números inteiros do usuário.
+Tenta dividir o primeiro pelo segundo.
+Se tudo certo → mostra o resultado.
+Se der divisão por zero → mostra mensagem de erro.
+Se o usuário digitar algo que não seja número inteiro → mostra mensagem de erro.
+Se ocorrer outro erro inesperado → mostra mensagem genérica.
+
+Questão 3
+
+O código deve é executado da seguinte maneira:
+
+
+Questão 4
+
+O código deve é executado da seguinte maneira:
+
+
+Questão 5
+
+O código deve é executado da seguinte maneira:
