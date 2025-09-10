@@ -55,6 +55,11 @@ O programa vai tentar abrir o arquivo notas.txt e mostrar seu conteúdo.
 Se o arquivo não existir, o programa cria o arquivo automaticamente com o texto "Arquivo criado." e mostra esse conteúdo.
 
 Contar linhas não vazias:
+Rode o programa (no terminal, IDLE ou outro editor Python).
+O programa vai tentar abrir o arquivo frases.txt e contar quantas linhas não estão vazias.
+O resultado será exibido na tela.
+Se houver problema de permissão para abrir o arquivo, o programa mostra uma mensagem de erro.
+
 
 
 
