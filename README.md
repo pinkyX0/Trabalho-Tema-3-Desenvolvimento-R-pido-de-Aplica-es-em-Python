@@ -11,7 +11,12 @@ O programa valida a entrada e mostra se o nome é válido ou se houve erro.
 Questão 2
 
 O código deve é executado da seguinte maneira:
+Rodar o programa (por exemplo, no terminal ou no IDLE do Python).
+Digite o primeiro número inteiro quando o programa pedir.
+Digite o segundo número inteiro quando o programa pedir.
+O programa vai mostrar o resultado da divisão.
 
+O programa vai mostrar o resultado da divisão.
 
 Questão 3
 
